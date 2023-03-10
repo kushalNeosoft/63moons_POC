@@ -93,9 +93,9 @@ android {
 
     compileSdkVersion rootProject.ext.compileSdkVersion
 
-    namespace "com.websocket"
+    namespace "com.web_poc"
     defaultConfig {
-        applicationId "com.websocket"
+        applicationId "com.web_poc"
         minSdkVersion rootProject.ext.minSdkVersion
         targetSdkVersion rootProject.ext.targetSdkVersion
         versionCode 1

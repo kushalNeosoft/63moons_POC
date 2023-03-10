@@ -1,4 +1,4 @@
-package com.websocket;
+package com.web_poc;
 
 import android.app.Application;
 import com.facebook.react.PackageList;

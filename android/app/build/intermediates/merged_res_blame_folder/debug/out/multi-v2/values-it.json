@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "com.websocket.app-mergeDebugResources-20:/values-it/values-it.xml",
+            "outputFile": "com.web_poc.app-mergeDebugResources-20:/values-it/values-it.xml",
             "map": [
                 {
                     "source": "/Users/kushal/.gradle/caches/transforms-3/2df373b9327185da857aa9641682c512/transformed/appcompat-1.4.1/res/values-it/values-it.xml",

@@ -4,7 +4,7 @@
     "type": "APK",
     "kind": "Directory"
   },
-  "applicationId": "com.websocket",
+  "applicationId": "com.web_poc",
   "variantName": "debug",
   "elements": [
     {
